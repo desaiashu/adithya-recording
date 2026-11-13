@@ -152,7 +152,7 @@ sec chorus
 sec bridge
 sec instr
   trk 1 43 Neve 1 |jwo
-    c 119:53 0:0 |cudl
+    c 119:53 9:1 |cudl
       samples/recording_1794610803_0.wav
       lane 0
         c 118:264 9:351 |btjj
@@ -173,7 +173,7 @@ sec instr
       lane 4
         c 119:353 7:369 |tjfg
           samples/recording_1794610683_0.wav
-        c 119:53 0:0 |yqpk
+        c 119:53 9:1 |yqpk
           samples/recording_1794610803_0.wav
   trk 5 lower scream |bce
     c 118:0 10:251 |qsar
