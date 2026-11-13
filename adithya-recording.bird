@@ -64,6 +64,12 @@ sec main
     c 0:0 152:78 |ynjg
       samples/choir_7th_Feb_25.wav
 sec verse
+  trk 1 43 Neve 1 |jwo
+    c 37:77 0:0 |pcje
+      samples/recording_1794608170_0.wav
+      lane 2
+        c 37:77 0:0 |ofux
+          samples/recording_1794608170_0.wav
   trk 2 Audio |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
