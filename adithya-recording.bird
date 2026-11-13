@@ -23,7 +23,7 @@ tracks
   4 take 1 |bce
     type audio
     strip tivraStrip
-  5 take 2 |hmu
+  5 mids scream |hmu
     type audio
     strip tivraStrip
   6 choir_7th_Feb_25 |sek
@@ -95,7 +95,7 @@ sec verse
   trk 4 take 1 |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
-  trk 5 take 2 |hmu
+  trk 5 mids scream |hmu
     c 37:0 19:8 |pcje
       samples/recording_1794608170_0.wav
 sec chorus
@@ -111,6 +111,6 @@ sec chorus
           samples/recording_1794608619_0.wav
         c 67:224 18:257 |mjrm
           samples/recording_1794608626_0.wav
-  trk 5 take 2 |hmu
+  trk 5 mids scream |hmu
     c 68:0 18:257 |zuyu
       samples/recording_1794608626_0.wav

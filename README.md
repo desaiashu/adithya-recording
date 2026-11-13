@@ -21,7 +21,7 @@ A [Songbird](https://tivra.com) project.
 - high scream
 - take 3
 - take 1
-- take 2
+- mids scream
 - choir_7th_Feb_25
 
 ## Layout
