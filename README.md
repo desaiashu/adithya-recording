@@ -19,7 +19,7 @@ A [Songbird](https://tivra.com) project.
 - Delay
 - Color
 - high scream
-- Audio
+- 2nd high
 - take 3
 - lower scream
 - mids scream
