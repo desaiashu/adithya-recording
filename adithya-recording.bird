@@ -38,14 +38,14 @@ sec main
       samples/recording_1794604674_0.wav
     c 2:288 1:86 |lquv
       samples/recording_1794605308_0.wav
-    c 4:96 0:0 |ulwi
+    c 4:96 3:201 |ulwi
       samples/recording_1794605402_0.wav
       lane 0
         c 0:0 1:335 |pron
           samples/recording_1794604674_0.wav
         c 2:288 0:371 |rtbq
           samples/recording_1794605304_0.wav
-        c 4:96 0:0 |fgci
+        c 4:96 3:201 |fgci
           samples/recording_1794605402_0.wav
       lane 1
         c 2:288 1:86 |mcbf
