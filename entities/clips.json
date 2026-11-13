@@ -1423,36 +1423,5 @@
       "amount": 0.0,
       "mode": "eighth"
     }
-  },
-  "hokz": {
-    "id": "hokz",
-    "trackId": "jwo",
-    "name": "Take 3",
-    "startBeat": 474.103111,
-    "lengthBeats": 29.48977777777778,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794610840_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 653312,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 2,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.008666666666666666,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
   }
 }
