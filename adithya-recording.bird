@@ -13,7 +13,7 @@ tracks
   1 43 Neve 1 |jwo
     type audio
     strip tivraStrip
-  2 Audio |bce
+  2 take 1 |bce
     type audio
     strip tivraStrip
   3 take 2 |hmu
@@ -68,7 +68,7 @@ sec verse
       lane 2
         c 37:77 19:8 |ofux
           samples/recording_1794608170_0.wav
-  trk 2 Audio |bce
+  trk 2 take 1 |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
   trk 3 take 2 |hmu
