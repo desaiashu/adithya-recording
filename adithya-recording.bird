@@ -148,3 +148,9 @@ sec chorus
       samples/recording_1794608626_0.wav
 sec bridge
 sec instr
+  trk 1 43 Neve 1 |jwo
+    c 118:264 0:0 |xkrs
+      samples/recording_1794610517_0.wav
+      lane 0
+        c 118:264 0:0 |btjj
+          samples/recording_1794610517_0.wav
