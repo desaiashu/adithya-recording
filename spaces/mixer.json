@@ -29,6 +29,10 @@
     "fbaj": {
       "gain": 1.0,
       "muted": false
+    },
+    "uuej": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [

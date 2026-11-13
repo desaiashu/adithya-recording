@@ -1459,9 +1459,9 @@
     "id": "uuej",
     "trackId": "jwo",
     "name": "Take 4",
-    "startBeat": 474.334222,
-    "lengthBeats": 37.925333333333334,
-    "offsetBeats": 0.0,
+    "startBeat": 480.0,
+    "lengthBeats": 32.259555333333346,
+    "offsetBeats": 5.665777999999989,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610882_0.wav",
