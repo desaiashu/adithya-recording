@@ -106,6 +106,8 @@ sec chorus
 sec verse
 sec chorus
   trk 1 43 Neve 1 |jwo
+    c 64:371 0:0 |pnxn
+      samples/recording_1794608767_0.wav
       lane 0
         c 69:173 0:357 |fzgc
           samples/recording_1794608619_0.wav
@@ -113,6 +115,8 @@ sec chorus
           samples/recording_1794608626_0.wav
         c 65:188 20:207 |afdb
           samples/recording_1794608702_0.wav
+        c 64:371 0:0 |lrpy
+          samples/recording_1794608767_0.wav
   trk 5 mids scream |hmu
     c 68:0 18:257 |zuyu
       samples/recording_1794608626_0.wav
