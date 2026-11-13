@@ -41,7 +41,7 @@ sec main
   trk 1 43 Neve 1 |jwo
     c 0:0 3:104 |bico
       samples/recording_1794607042_0.wav
-    c 31:359 0:0 |puve
+    c 31:359 25:51 |puve
       samples/recording_1794608087_0.wav
       lane 0
         c 0:0 1:335 |pron
@@ -57,7 +57,7 @@ sec main
           samples/recording_1794605308_0.wav
         c 0:0 3:104 |mepi
           samples/recording_1794607042_0.wav
-        c 31:359 0:0 |qwgy
+        c 31:359 25:51 |qwgy
           samples/recording_1794608087_0.wav
   trk 3 choir_7th_Feb_25 |sek
     c 0:0 152:78 |ynjg
