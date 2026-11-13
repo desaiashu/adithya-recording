@@ -229,8 +229,8 @@
       "channels": 1,
       "lengthSamples": 4337152,
       "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
+      "sourceBpm": 97.0873786407767,
+      "sourceBpmOrigin": "Detected"
     },
     "araEnabled": false,
     "araBypassed": false,
