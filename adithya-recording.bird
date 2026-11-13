@@ -80,4 +80,10 @@ sec verse
     c 37:0 19:8 |pcje
       samples/recording_1794608170_0.wav
 sec chorus
+  trk 1 43 Neve 1 |jwo
+    c 46:212 0:0 |wsha
+      samples/recording_1794608349_0.wav
+      lane 4
+        c 46:212 0:0 |oedr
+          samples/recording_1794608349_0.wav
 sec verse
