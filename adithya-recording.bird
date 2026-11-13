@@ -80,7 +80,7 @@ sec main
       samples/choir_7th_Feb_25.wav
 sec verse
   trk 1 43 Neve 1 |jwo
-    c 37:277 15:113 |ympt
+    c 37:277 17:252 |ympt
       samples/recording_1794611318_0.wav
       lane 2
         c 37:77 19:8 |ofux
@@ -91,7 +91,7 @@ sec verse
       lane 4
         c 37:348 17:246 |awpo
           samples/recording_1794608359_0.wav
-        c 37:277 15:113 |zyfp
+        c 37:277 17:252 |zyfp
           samples/recording_1794611318_0.wav
       lane 5
         c 38:130 17:203 |zlpp
