@@ -1,3 +1,526 @@
 {
-  "sectionVariations": {}
+  "sectionVariations": {
+    "hog": {
+      "active": 1,
+      "activeId": "cgpnhp",
+      "variations": [
+        {
+          "id": "sguotl",
+          "index": 0,
+          "name": "Original",
+          "kept": true,
+          "content": {
+            "clips": [
+              {
+                "id": "pron",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 0.0,
+                "lengthBeats": 7.4879999999999995,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794604674_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 165888,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "rtbq",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 11.0,
+                "lengthBeats": 3.859555555555556,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794605304_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 85504,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "mcbf",
+                "trackId": "jwo",
+                "name": "Take 2",
+                "startBeat": 11.0,
+                "lengthBeats": 4.899555555555556,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794605308_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 108544,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 1,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "fgci",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 17.0,
+                "lengthBeats": 14.097777777777777,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794605402_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 312320,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "mepi",
+                "trackId": "jwo",
+                "name": "Take 2",
+                "startBeat": 0.0,
+                "lengthBeats": 13.08088888888889,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794607042_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 289792,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 97.0873786407767,
+                  "sourceBpmOrigin": "Detected"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 1,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "bico",
+                "trackId": "jwo",
+                "name": "Take 2",
+                "startBeat": 0.0,
+                "lengthBeats": 13.08088888888889,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794607042_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 289792,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 97.0873786407767,
+                  "sourceBpmOrigin": "Detected"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "sourceLaneIndex": 1,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "ynjg",
+                "trackId": "sek",
+                "name": "choir_7th_Feb_25",
+                "startBeat": 0.0,
+                "lengthBeats": 608.8159901738472,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/choir_7th_Feb_25.wav",
+                  "sampleRate": 44100.0,
+                  "channels": 2,
+                  "lengthSamples": 12391747,
+                  "timeStretchMode": "Disabled",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "xvgf",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 56.206222,
+                "lengthBeats": 195.77422222222222,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794607711_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 4337152,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 97.0873786407767,
+                  "sourceBpmOrigin": "Detected"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              }
+            ],
+            "automation": []
+          }
+        },
+        {
+          "id": "cgpnhp",
+          "index": 1,
+          "name": "Variation 2",
+          "kept": true,
+          "content": {
+            "clips": [
+              {
+                "id": "pron",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 0.0,
+                "lengthBeats": 7.4879999999999995,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794604674_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 165888,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "rtbq",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 11.0,
+                "lengthBeats": 3.859555555555556,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794605304_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 85504,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "mcbf",
+                "trackId": "jwo",
+                "name": "Take 2",
+                "startBeat": 11.0,
+                "lengthBeats": 4.899555555555556,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794605308_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 108544,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 1,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "fgci",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 17.0,
+                "lengthBeats": 14.097777777777777,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794605402_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 312320,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "mepi",
+                "trackId": "jwo",
+                "name": "Take 2",
+                "startBeat": 0.0,
+                "lengthBeats": 13.08088888888889,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794607042_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 289792,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 97.0873786407767,
+                  "sourceBpmOrigin": "Detected"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 1,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "bico",
+                "trackId": "jwo",
+                "name": "Take 2",
+                "startBeat": 0.0,
+                "lengthBeats": 13.08088888888889,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794607042_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 289792,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 97.0873786407767,
+                  "sourceBpmOrigin": "Detected"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "sourceLaneIndex": 1,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "ynjg",
+                "trackId": "sek",
+                "name": "choir_7th_Feb_25",
+                "startBeat": 0.0,
+                "lengthBeats": 608.8159901738472,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/choir_7th_Feb_25.wav",
+                  "sampleRate": 44100.0,
+                  "channels": 2,
+                  "lengthSamples": 12391747,
+                  "timeStretchMode": "Disabled",
+                  "sourceBpm": 130.0,
+                  "sourceBpmOrigin": "Inherited"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              },
+              {
+                "id": "xvgf",
+                "trackId": "jwo",
+                "name": "Take 1",
+                "startBeat": 56.206222,
+                "lengthBeats": 195.77422222222222,
+                "offsetBeats": 0.0,
+                "source": {
+                  "type": "Audio",
+                  "path": "samples/recording_1794607711_0.wav",
+                  "sampleRate": 48000.0,
+                  "channels": 1,
+                  "lengthSamples": 4337152,
+                  "timeStretchMode": "Signalsmith",
+                  "sourceBpm": 97.0873786407767,
+                  "sourceBpmOrigin": "Detected"
+                },
+                "araEnabled": false,
+                "araBypassed": false,
+                "laneIndex": 0,
+                "gain": 1.0,
+                "fadeInBeats": 0.008666666666666666,
+                "fadeOutBeats": 0.008666666666666666,
+                "fadeCurve": 1.0,
+                "loopEnabled": false,
+                "reversed": false,
+                "swing": {
+                  "amount": 0.0,
+                  "mode": "eighth"
+                }
+              }
+            ],
+            "automation": []
+          }
+        }
+      ]
+    }
+  }
 }
