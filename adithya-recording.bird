@@ -68,7 +68,7 @@ sec main
       samples/choir_7th_Feb_25.wav
 sec verse
   trk 1 43 Neve 1 |jwo
-    c 38:2 0:0 |nvgn
+    c 38:2 17:181 |nvgn
       samples/recording_1794608507_0.wav
       lane 2
         c 37:77 19:8 |ofux
@@ -82,7 +82,7 @@ sec verse
       lane 5
         c 38:130 17:203 |zlpp
           samples/recording_1794608454_0.wav
-        c 38:2 0:0 |swix
+        c 38:2 17:181 |swix
           samples/recording_1794608507_0.wav
   trk 2 take 3 |qbb
     c 38:0 17:246 |ddtx
