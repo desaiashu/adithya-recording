@@ -110,6 +110,8 @@ sec verse
           samples/recording_1794608828_0.wav
 sec chorus
   trk 1 43 Neve 1 |jwo
+    c 67:251 0:0 |mtdv
+      samples/recording_1794608992_0.wav
       lane 0
         c 69:173 0:357 |fzgc
           samples/recording_1794608619_0.wav
@@ -126,6 +128,9 @@ sec chorus
           samples/recording_1794608876_0.wav
         c 64:337 20:32 |bfkx
           samples/recording_1794608921_0.wav
+      lane 3
+        c 67:251 0:0 |ttnp
+          samples/recording_1794608992_0.wav
   trk 2 high scream |xbg
     c 65:0 20:32 |xplc
       samples/recording_1794608921_0.wav
