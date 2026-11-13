@@ -34,7 +34,7 @@
     "pan": 0.0,
     "inputGainDb": 0.0,
     "preampModel": "clean",
-    "muted": false,
+    "muted": true,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
