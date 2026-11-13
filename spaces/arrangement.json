@@ -90,6 +90,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "qbb": {
+      "id": "qbb",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -100,7 +110,8 @@
     "rdv",
     "bce",
     "hmu",
-    "sek"
+    "sek",
+    "qbb"
   ],
   "groups": {},
   "sections": {

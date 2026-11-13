@@ -6,9 +6,9 @@ A [Songbird](https://tivra.com) project.
 |---|---|
 | Tempo | 130 BPM |
 | Meter | 4/4 |
-| Tracks | 8 |
+| Tracks | 9 |
 | Clips | 16 |
-| Plugins | 13 |
+| Plugins | 14 |
 | Automation lanes | 0 |
 
 ## Tracks
@@ -21,6 +21,7 @@ A [Songbird](https://tivra.com) project.
 - take 1
 - take 2
 - choir_7th_Feb_25
+- Audio
 
 ## Layout
 

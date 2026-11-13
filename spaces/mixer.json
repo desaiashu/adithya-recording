@@ -41,6 +41,20 @@
       "feedback": false
     },
     {
+      "trackId": "qbb",
+      "returnId": "rvx",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "qbb",
+      "returnId": "rdv",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
       "trackId": "jwo",
       "returnId": "rda",
       "gain": 0.0,
@@ -63,6 +77,13 @@
     },
     {
       "trackId": "bce",
+      "returnId": "rda",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "qbb",
       "returnId": "rda",
       "gain": 0.0,
       "preFader": false,
@@ -225,6 +246,13 @@
     {
       "trackId": "rvx",
       "returnId": "rdv",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "qbb",
+      "returnId": "rxt",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
