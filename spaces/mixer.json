@@ -17,6 +17,10 @@
     "qsar": {
       "gain": 1.0,
       "muted": false
+    },
+    "arfh": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
