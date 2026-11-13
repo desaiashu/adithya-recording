@@ -45,7 +45,7 @@
     "monoSource": "sum"
   },
   "bce": {
-    "gain": 0.0,
+    "gain": 0.8747142553329468,
     "pan": 0.0,
     "inputGainDb": 0.0,
     "preampModel": "clean",
