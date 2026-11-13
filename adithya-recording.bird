@@ -152,6 +152,8 @@ sec chorus
 sec bridge
 sec instr
   trk 1 43 Neve 1 |jwo
+    c 118:224 0:0 |uuej
+      samples/recording_1794610882_0.wav
       lane 0
         c 118:264 9:351 |btjj
           samples/recording_1794610517_0.wav
@@ -170,6 +172,8 @@ sec instr
           samples/recording_1794610662_0.wav
         c 119:46 8:334 |fwsa
           samples/recording_1794610722_0.wav
+        c 118:224 0:0 |kqzk
+          samples/recording_1794610882_0.wav
       lane 4
         c 119:353 7:369 |tjfg
           samples/recording_1794610683_0.wav
