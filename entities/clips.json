@@ -994,9 +994,9 @@
     "id": "hhni",
     "trackId": "jwo",
     "name": "Take 3",
-    "startBeat": 256.732444,
-    "lengthBeats": 83.45422222222221,
-    "offsetBeats": 0.0,
+    "startBeat": 260.0,
+    "lengthBeats": 80.1866662222222,
+    "offsetBeats": 3.2675560000000132,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610381_0.wav",
