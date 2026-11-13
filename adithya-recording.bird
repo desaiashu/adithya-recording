@@ -34,8 +34,6 @@ master
 
 sec main
   trk 1 43 Neve 1 |jwo
-    c 0:0 1:335 |oioo
-      samples/recording_1794604674_0.wav
     c 2:288 1:86 |lquv
       samples/recording_1794605308_0.wav
     c 4:96 3:201 |ulwi

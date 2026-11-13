@@ -30,37 +30,6 @@
       "mode": "eighth"
     }
   },
-  "oioo": {
-    "id": "oioo",
-    "trackId": "jwo",
-    "name": "Take 1",
-    "startBeat": 0.0,
-    "lengthBeats": 7.4879999999999995,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794604674_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 165888,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 0,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.008666666666666666,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
-  },
   "rtbq": {
     "id": "rtbq",
     "trackId": "jwo",
