@@ -184,5 +184,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "ynjg": {
+    "id": "ynjg",
+    "trackId": "sek",
+    "name": "choir_7th_Feb_25",
+    "startBeat": 0.0,
+    "lengthBeats": 608.8159901738472,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/choir_7th_Feb_25.wav",
+      "sampleRate": 44100.0,
+      "channels": 2,
+      "lengthSamples": 12391747,
+      "timeStretchMode": "Disabled",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008666666666666666,
+    "fadeOutBeats": 0.008666666666666666,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }

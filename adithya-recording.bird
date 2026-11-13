@@ -50,3 +50,6 @@ sec main
           samples/recording_1794605308_0.wav
         c 0:0 3:104 |mepi
           samples/recording_1794607042_0.wav
+  trk 3 choir_7th_Feb_25 |sek
+    c 0:0 152:78 |ynjg
+      samples/choir_7th_Feb_25.wav
