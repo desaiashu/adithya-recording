@@ -7,7 +7,7 @@ A [Songbird](https://tivra.com) project.
 | Tempo | 130 BPM |
 | Meter | 4/4 |
 | Tracks | 11 |
-| Clips | 44 |
+| Clips | 46 |
 | Plugins | 16 |
 | Automation lanes | 0 |
 
