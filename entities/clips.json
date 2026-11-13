@@ -92,37 +92,6 @@
       "mode": "eighth"
     }
   },
-  "lquv": {
-    "id": "lquv",
-    "trackId": "jwo",
-    "name": "Take 2",
-    "startBeat": 11.0,
-    "lengthBeats": 4.899555555555556,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794605308_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 108544,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 1,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.008666666666666666,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
-  },
   "fgci": {
     "id": "fgci",
     "trackId": "jwo",
