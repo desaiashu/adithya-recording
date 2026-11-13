@@ -245,36 +245,5 @@
       "amount": 0.0,
       "mode": "eighth"
     }
-  },
-  "pzgc": {
-    "id": "pzgc",
-    "trackId": "jwo",
-    "name": "Take 1",
-    "startBeat": 56.206222,
-    "lengthBeats": 195.77422222222222,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794607711_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 4337152,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 97.0873786407767,
-      "sourceBpmOrigin": "Detected"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 0,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.008666666666666666,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
   }
 }

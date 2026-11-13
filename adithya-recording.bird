@@ -38,8 +38,6 @@ sec main
   trk 1 43 Neve 1 |jwo
     c 0:0 3:104 |bico
       samples/recording_1794607042_0.wav
-    c 14:20 48:362 |pzgc
-      samples/recording_1794607711_0.wav
       lane 0
         c 0:0 1:335 |pron
           samples/recording_1794604674_0.wav
