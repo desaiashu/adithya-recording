@@ -2,6 +2,16 @@
   "mappings": {},
   "nextId": 0,
   "macros": {},
-  "devices": {},
+  "devices": {
+    "keylab-mkii-61-midi": {
+      "id": "keylab-mkii-61-midi",
+      "name": "KeyLab mkII 61 MIDI",
+      "port": null,
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": 1,
+      "manual": false
+    }
+  },
   "recordAutomation": false
 }
