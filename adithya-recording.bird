@@ -6,7 +6,7 @@ sig
 arr
   main 32 |hog
   verse 8 |ipf
-  chorus 8 |dsq
+  chorus 16 |dsq
 
 tracks
   1 43 Neve 1 |jwo

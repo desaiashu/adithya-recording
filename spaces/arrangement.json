@@ -115,7 +115,7 @@
       "id": "dsq",
       "name": "chorus",
       "startBeat": 160.0,
-      "lengthBeats": 32.0,
+      "lengthBeats": 64.0,
       "scale": null,
       "activeVariation": 0,
       "variationCount": 0
