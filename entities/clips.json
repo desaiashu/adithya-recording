@@ -865,36 +865,5 @@
       "amount": 0.0,
       "mode": "eighth"
     }
-  },
-  "ifkp": {
-    "id": "ifkp",
-    "trackId": "jwo",
-    "name": "Take 3",
-    "startBeat": 261.615999,
-    "lengthBeats": 76.1511111111111,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794608876_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 1687040,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 2,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.008666666666666666,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
   }
 }
