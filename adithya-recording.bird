@@ -106,6 +106,10 @@ sec chorus
 sec verse
 sec chorus
   trk 1 43 Neve 1 |jwo
+    c 67:224 0:0 |zuyu
+      samples/recording_1794608626_0.wav
       lane 0
         c 69:173 0:357 |fzgc
           samples/recording_1794608619_0.wav
+        c 67:224 0:0 |mjrm
+          samples/recording_1794608626_0.wav
