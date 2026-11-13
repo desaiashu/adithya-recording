@@ -19,10 +19,10 @@ A [Songbird](https://tivra.com) project.
 - Delay
 - Color
 - take 3
+- high scream
 - take 1
 - take 2
 - choir_7th_Feb_25
-- high scream
 
 ## Layout
 

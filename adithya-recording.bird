@@ -16,16 +16,16 @@ tracks
   2 take 3 |qbb
     type audio
     strip tivraStrip
-  3 take 1 |bce
+  3 high scream |xbg
     type audio
     strip tivraStrip
-  4 take 2 |hmu
+  4 take 1 |bce
     type audio
     strip tivraStrip
-  5 choir_7th_Feb_25 |sek
+  5 take 2 |hmu
     type audio
     strip tivraStrip
-  6 high scream |xbg
+  6 choir_7th_Feb_25 |sek
     type audio
     strip tivraStrip
 
@@ -66,7 +66,7 @@ sec main
           samples/recording_1794607042_0.wav
         c 31:359 25:51 |qwgy
           samples/recording_1794608087_0.wav
-  trk 5 choir_7th_Feb_25 |sek
+  trk 6 choir_7th_Feb_25 |sek
     c 0:0 152:78 |ynjg
       samples/choir_7th_Feb_25.wav
 sec verse
@@ -90,10 +90,10 @@ sec verse
   trk 2 take 3 |qbb
     c 38:0 17:246 |ddtx
       samples/recording_1794608359_0.wav
-  trk 3 take 1 |bce
+  trk 4 take 1 |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
-  trk 4 take 2 |hmu
+  trk 5 take 2 |hmu
     c 37:0 19:8 |pcje
       samples/recording_1794608170_0.wav
 sec chorus
