@@ -1,0 +1,16 @@
+{
+  "armState": {
+    "jwo": {
+      "armed": true,
+      "audioSource": {
+        "type": "hardware",
+        "deviceName": "Universal Audio Thunderbolt",
+        "channels": [
+          42
+        ]
+      },
+      "midiInput": null,
+      "inputMonitoring": "auto"
+    }
+  }
+}
