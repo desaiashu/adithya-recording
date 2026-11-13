@@ -1299,36 +1299,5 @@
       "amount": 0.0,
       "mode": "eighth"
     }
-  },
-  "nlbz": {
-    "id": "nlbz",
-    "trackId": "jwo",
-    "name": "Take 5",
-    "startBeat": 479.674666,
-    "lengthBeats": 31.84711111111111,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794610683_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 705536,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 4,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.008666666666666666,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
   }
 }
