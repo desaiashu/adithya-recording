@@ -7,6 +7,7 @@ arr
   main 32 |hog
   verse 8 |ipf
   chorus 16 |dsq
+  verse 8 |ece
 
 tracks
   1 43 Neve 1 |jwo
@@ -59,3 +60,4 @@ sec main
       samples/choir_7th_Feb_25.wav
 sec verse
 sec chorus
+sec verse

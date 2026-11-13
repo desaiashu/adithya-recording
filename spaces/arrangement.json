@@ -119,6 +119,15 @@
       "scale": null,
       "activeVariation": 0,
       "variationCount": 0
+    },
+    "ece": {
+      "id": "ece",
+      "name": "verse",
+      "startBeat": 224.0,
+      "lengthBeats": 32.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
     }
   },
   "tempoMarkers": [],
