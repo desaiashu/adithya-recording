@@ -105,8 +105,6 @@ sec chorus
           samples/recording_1794608349_0.wav
 sec verse
   trk 1 43 Neve 1 |jwo
-    c 62:286 22:183 |tqny
-      samples/recording_1794608828_0.wav
       lane 1
         c 62:286 22:183 |wyqs
           samples/recording_1794608828_0.wav
