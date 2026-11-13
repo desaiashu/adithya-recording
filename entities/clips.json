@@ -401,37 +401,6 @@
       "mode": "eighth"
     }
   },
-  "djpa": {
-    "id": "djpa",
-    "trackId": "jwo",
-    "name": "Take 4",
-    "startBeat": 148.807111,
-    "lengthBeats": 37.40088800000001,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Audio",
-      "path": "samples/recording_1794608258_0.wav",
-      "sampleRate": 48000.0,
-      "channels": 1,
-      "lengthSamples": 1677312,
-      "timeStretchMode": "Signalsmith",
-      "sourceBpm": 130.0,
-      "sourceBpmOrigin": "Inherited"
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "sourceLaneIndex": 3,
-    "gain": 1.0,
-    "fadeInBeats": 0.008666666666666666,
-    "fadeOutBeats": 0.0,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
-  },
   "oedr": {
     "id": "oedr",
     "trackId": "jwo",
