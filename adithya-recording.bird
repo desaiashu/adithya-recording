@@ -34,7 +34,7 @@ master
 
 sec main
   trk 1 43 Neve 1 |jwo
-    c 0:0 0:0 |bico
+    c 0:0 3:104 |bico
       samples/recording_1794607042_0.wav
       lane 0
         c 0:0 1:335 |pron
@@ -46,5 +46,5 @@ sec main
       lane 1
         c 2:288 1:86 |mcbf
           samples/recording_1794605308_0.wav
-        c 0:0 0:0 |mepi
+        c 0:0 3:104 |mepi
           samples/recording_1794607042_0.wav
