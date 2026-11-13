@@ -1521,9 +1521,9 @@
     "id": "ekgw",
     "trackId": "jwo",
     "name": "Take 6",
-    "startBeat": 481.512888,
-    "lengthBeats": 30.021333333333335,
-    "offsetBeats": 0.0,
+    "startBeat": 484.0,
+    "lengthBeats": 27.53422133333331,
+    "offsetBeats": 2.4871120000000246,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610956_0.wav",

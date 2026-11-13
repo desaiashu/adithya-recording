@@ -33,6 +33,10 @@
     "uuej": {
       "gain": 1.0,
       "muted": false
+    },
+    "ekgw": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
