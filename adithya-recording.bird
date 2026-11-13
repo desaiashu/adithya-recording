@@ -16,7 +16,7 @@ tracks
   2 Audio |bce
     type audio
     strip tivraStrip
-  3 Audio |hmu
+  3 take 2 |hmu
     type audio
     strip tivraStrip
   4 choir_7th_Feb_25 |sek
@@ -71,7 +71,7 @@ sec verse
   trk 2 Audio |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
-  trk 3 Audio |hmu
+  trk 3 take 2 |hmu
     c 37:0 19:8 |pcje
       samples/recording_1794608170_0.wav
 sec chorus

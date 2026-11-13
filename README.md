@@ -19,7 +19,7 @@ A [Songbird](https://tivra.com) project.
 - Delay
 - Color
 - Audio
-- Audio
+- take 2
 - choir_7th_Feb_25
 
 ## Layout
