@@ -406,7 +406,7 @@
     "trackId": "jwo",
     "name": "Take 4",
     "startBeat": 148.807111,
-    "lengthBeats": 75.712,
+    "lengthBeats": 60.0,
     "offsetBeats": 0.0,
     "source": {
       "type": "Audio",

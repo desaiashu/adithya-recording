@@ -65,7 +65,7 @@ sec main
       samples/choir_7th_Feb_25.wav
 sec verse
   trk 1 43 Neve 1 |jwo
-    c 37:77 18:356 |djpa
+    c 37:77 15:0 |djpa
       samples/recording_1794608258_0.wav
       lane 2
         c 37:77 19:8 |ofux
