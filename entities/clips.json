@@ -1087,9 +1087,9 @@
     "id": "qsar",
     "trackId": "jwo",
     "name": "Take 1",
-    "startBeat": 468.368,
-    "lengthBeats": 46.245333333333335,
-    "offsetBeats": 0.0,
+    "startBeat": 472.0,
+    "lengthBeats": 42.61333333333333,
+    "offsetBeats": 3.632000000000005,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610545_0.wav",

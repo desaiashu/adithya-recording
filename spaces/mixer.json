@@ -13,6 +13,10 @@
     "hhni": {
       "gain": 1.0,
       "muted": false
+    },
+    "qsar": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
