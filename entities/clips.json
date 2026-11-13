@@ -1149,9 +1149,9 @@
     "id": "arfh",
     "trackId": "jwo",
     "name": "Take 2",
-    "startBeat": 478.0,
-    "lengthBeats": 36.591999555555574,
-    "offsetBeats": 4.915555999999981,
+    "startBeat": 480.0,
+    "lengthBeats": 34.591999555555574,
+    "offsetBeats": 6.915555999999981,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610588_0.wav",
