@@ -13,13 +13,13 @@ tracks
   1 43 Neve 1 |jwo
     type audio
     strip tivraStrip
-  2 Audio |hmu
+  2 Audio |bce
     type audio
     strip tivraStrip
-  3 choir_7th_Feb_25 |sek
+  3 Audio |hmu
     type audio
     strip tivraStrip
-  4 Audio |bce
+  4 choir_7th_Feb_25 |sek
     type audio
     strip tivraStrip
 
@@ -62,7 +62,7 @@ sec main
           samples/recording_1794607042_0.wav
         c 31:359 25:51 |qwgy
           samples/recording_1794608087_0.wav
-  trk 3 choir_7th_Feb_25 |sek
+  trk 4 choir_7th_Feb_25 |sek
     c 0:0 152:78 |ynjg
       samples/choir_7th_Feb_25.wav
 sec verse
