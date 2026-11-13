@@ -8,8 +8,15 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "rda",
-      "returnId": "rda",
+      "trackId": "hmu",
+      "returnId": "rvx",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "sek",
+      "returnId": "rdv",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
@@ -22,50 +29,8 @@
       "feedback": false
     },
     {
-      "trackId": "rda",
-      "returnId": "rdv",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
       "trackId": "rxt",
       "returnId": "rxt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rda",
-      "returnId": "rxt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "hmu",
-      "returnId": "rxt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rdv",
-      "returnId": "rdv",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "hmu",
-      "returnId": "rvx",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "hmu",
-      "returnId": "rdv",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
@@ -78,13 +43,6 @@
       "feedback": false
     },
     {
-      "trackId": "jwo",
-      "returnId": "rvx",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
       "trackId": "rxt",
       "returnId": "rda",
       "gain": 0.0,
@@ -92,22 +50,15 @@
       "feedback": false
     },
     {
-      "trackId": "rdv",
+      "trackId": "sek",
       "returnId": "rxt",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
-      "trackId": "rvx",
-      "returnId": "rxt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "hmu",
-      "returnId": "rda",
+      "trackId": "sek",
+      "returnId": "rvx",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
@@ -148,6 +99,13 @@
       "feedback": false
     },
     {
+      "trackId": "rda",
+      "returnId": "rdv",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
       "trackId": "rdv",
       "returnId": "rda",
       "gain": 0.0,
@@ -163,14 +121,84 @@
     },
     {
       "trackId": "rvx",
+      "returnId": "rvx",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rda",
+      "returnId": "rxt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "hmu",
+      "returnId": "rxt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rdv",
       "returnId": "rdv",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
-      "trackId": "rvx",
+      "trackId": "hmu",
+      "returnId": "rdv",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "sek",
+      "returnId": "rda",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rdv",
+      "returnId": "rxt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "jwo",
       "returnId": "rvx",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rvx",
+      "returnId": "rxt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "hmu",
+      "returnId": "rda",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rvx",
+      "returnId": "rdv",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rda",
+      "returnId": "rda",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
