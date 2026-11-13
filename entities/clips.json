@@ -958,5 +958,67 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "retd": {
+    "id": "retd",
+    "trackId": "jwo",
+    "name": "Take 3",
+    "startBeat": 256.732444,
+    "lengthBeats": 0.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/recording_1794610381_0.wav",
+      "sampleRate": 0.0,
+      "channels": 0,
+      "lengthSamples": 0,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "laneIndex": 2,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "hhni": {
+    "id": "hhni",
+    "trackId": "jwo",
+    "name": "Take 3",
+    "startBeat": 256.732444,
+    "lengthBeats": 0.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/recording_1794610381_0.wav",
+      "sampleRate": 0.0,
+      "channels": 0,
+      "lengthSamples": 0,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 130.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "sourceLaneIndex": 2,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
