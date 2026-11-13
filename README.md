@@ -6,9 +6,9 @@ A [Songbird](https://tivra.com) project.
 |---|---|
 | Tempo | 130 BPM |
 | Meter | 4/4 |
-| Tracks | 11 |
+| Tracks | 12 |
 | Clips | 48 |
-| Plugins | 16 |
+| Plugins | 17 |
 | Automation lanes | 0 |
 
 ## Tracks
@@ -24,6 +24,7 @@ A [Songbird](https://tivra.com) project.
 - lower scream
 - mids scream
 - choir_7th_Feb_25
+- Audio
 
 ## Layout
 
