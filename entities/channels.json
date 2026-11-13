@@ -30,7 +30,7 @@
     "monoSource": "sum"
   },
   "sek": {
-    "gain": 1.0,
+    "gain": 0.6498422026634216,
     "pan": 0.0,
     "inputGainDb": 0.0,
     "preampModel": "clean",
