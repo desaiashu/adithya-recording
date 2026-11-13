@@ -10,7 +10,7 @@
         ]
       },
       "midiInput": null,
-      "inputMonitoring": "auto"
+      "inputMonitoring": "on"
     }
   }
 }
