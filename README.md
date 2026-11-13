@@ -20,10 +20,10 @@ A [Songbird](https://tivra.com) project.
 - Color
 - high scream
 - take 3
+- Audio
 - lower scream
 - mids scream
 - choir_7th_Feb_25
-- Audio
 
 ## Layout
 

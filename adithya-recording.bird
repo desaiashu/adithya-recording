@@ -22,16 +22,16 @@ tracks
   3 take 3 |qbb
     type audio
     strip tivraStrip
-  4 lower scream |bce
+  4 Audio |btt
     type audio
     strip tivraStrip
-  5 mids scream |hmu
+  5 lower scream |bce
     type audio
     strip tivraStrip
-  6 choir_7th_Feb_25 |sek
+  6 mids scream |hmu
     type audio
     strip tivraStrip
-  7 Audio |btt
+  7 choir_7th_Feb_25 |sek
     type audio
     strip tivraStrip
 
@@ -72,7 +72,7 @@ sec main
           samples/recording_1794607042_0.wav
         c 31:359 25:51 |qwgy
           samples/recording_1794608087_0.wav
-  trk 6 choir_7th_Feb_25 |sek
+  trk 7 choir_7th_Feb_25 |sek
     c 0:0 152:78 |ynjg
       samples/choir_7th_Feb_25.wav
 sec verse
@@ -97,10 +97,10 @@ sec verse
   trk 3 take 3 |qbb
     c 38:0 17:246 |ddtx
       samples/recording_1794608359_0.wav
-  trk 4 lower scream |bce
+  trk 5 lower scream |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
-  trk 5 mids scream |hmu
+  trk 6 mids scream |hmu
     c 37:0 19:8 |pcje
       samples/recording_1794608170_0.wav
 sec chorus
@@ -143,10 +143,10 @@ sec chorus
     c 65:0 20:18 |hhni
       samples/recording_1794610381_0.wav
       o 0:314
-  trk 4 lower scream |bce
+  trk 5 lower scream |bce
     c 65:0 20:43 |pnxn
       samples/recording_1794608767_0.wav
-  trk 5 mids scream |hmu
+  trk 6 mids scream |hmu
     c 68:0 18:257 |zuyu
       samples/recording_1794608626_0.wav
 sec bridge
@@ -171,7 +171,7 @@ sec instr
       lane 4
         c 119:353 7:369 |tjfg
           samples/recording_1794610683_0.wav
-  trk 4 lower scream |bce
+  trk 5 lower scream |bce
     c 118:0 10:251 |qsar
       samples/recording_1794610545_0.wav
       o 0:349
