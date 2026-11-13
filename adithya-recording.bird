@@ -31,6 +31,9 @@ tracks
   6 choir_7th_Feb_25 |sek
     type audio
     strip tivraStrip
+  7 Audio |btt
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rxt

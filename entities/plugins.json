@@ -655,5 +655,14 @@
       "driveOversample": 4.0
     },
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "zbxc": {
+    "id": "zbxc",
+    "trackId": "btt",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
