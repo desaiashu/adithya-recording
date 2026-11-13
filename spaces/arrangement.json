@@ -110,6 +110,15 @@
       "scale": null,
       "activeVariation": 0,
       "variationCount": 0
+    },
+    "dsq": {
+      "id": "dsq",
+      "name": "chorus",
+      "startBeat": 160.0,
+      "lengthBeats": 32.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
     }
   },
   "tempoMarkers": [],

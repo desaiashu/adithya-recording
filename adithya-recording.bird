@@ -6,6 +6,7 @@ sig
 arr
   main 32 |hog
   verse 8 |ipf
+  chorus 8 |dsq
 
 tracks
   1 43 Neve 1 |jwo
@@ -57,3 +58,4 @@ sec main
     c 0:0 152:78 |ynjg
       samples/choir_7th_Feb_25.wav
 sec verse
+sec chorus
