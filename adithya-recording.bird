@@ -36,9 +36,7 @@ sec main
   trk 1 43 Neve 1 |jwo
     c 0:0 1:335 |oioo
       samples/recording_1794604674_0.wav
-    c 2:288 0:371 |hhai
-      samples/recording_1794605304_0.wav
-    c 2:288 0:0 |lquv
+    c 2:288 1:86 |lquv
       samples/recording_1794605308_0.wav
       lane 0
         c 0:0 1:335 |pron
@@ -46,5 +44,5 @@ sec main
         c 2:288 0:371 |rtbq
           samples/recording_1794605304_0.wav
       lane 1
-        c 2:288 0:0 |mcbf
+        c 2:288 1:86 |mcbf
           samples/recording_1794605308_0.wav
