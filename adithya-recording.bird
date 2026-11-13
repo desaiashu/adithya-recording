@@ -7,7 +7,7 @@ arr
   main 32 |hog
 
 tracks
-  1 Audio |jwo
+  1 43 Neve 1 |jwo
     type audio
     strip tivraStrip
   2 MIDI |cwd

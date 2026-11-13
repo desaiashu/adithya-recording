@@ -13,7 +13,7 @@ A [Songbird](https://tivra.com) project.
 
 ## Tracks
 
-- Audio
+- 43 Neve 1
 - MIDI
 - Hall
 - Plate
