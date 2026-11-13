@@ -1,6 +1,6 @@
 {
   "loopState": {
-    "enabled": true,
+    "enabled": false,
     "startBeat": 160.0,
     "endBeat": 224.0
   },
