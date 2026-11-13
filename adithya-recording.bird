@@ -10,6 +10,7 @@ arr
   verse 8 |ece
   chorus 24 |cff
   bridge 16 |had
+  instr 16 |gae
 
 tracks
   1 43 Neve 1 |jwo
@@ -146,3 +147,4 @@ sec chorus
     c 68:0 18:257 |zuyu
       samples/recording_1794608626_0.wav
 sec bridge
+sec instr

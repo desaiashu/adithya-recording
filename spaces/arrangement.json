@@ -179,6 +179,15 @@
       "scale": null,
       "activeVariation": 0,
       "variationCount": 0
+    },
+    "gae": {
+      "id": "gae",
+      "name": "instr",
+      "startBeat": 416.0,
+      "lengthBeats": 64.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
     }
   },
   "tempoMarkers": [],
