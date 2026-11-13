@@ -57,7 +57,28 @@
       "feedback": false
     },
     {
+      "trackId": "hmu",
+      "returnId": "rxt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
       "trackId": "rdv",
+      "returnId": "rdv",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "hmu",
+      "returnId": "rvx",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "hmu",
       "returnId": "rdv",
       "gain": 0.0,
       "preFader": false,
@@ -101,6 +122,13 @@
     {
       "trackId": "cwd",
       "returnId": "rxt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "hmu",
+      "returnId": "rda",
       "gain": 0.0,
       "preFader": false,
       "feedback": false

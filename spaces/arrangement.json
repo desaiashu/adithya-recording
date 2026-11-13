@@ -70,6 +70,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "hmu": {
+      "id": "hmu",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -78,7 +88,8 @@
     "rxt",
     "rda",
     "rvx",
-    "rdv"
+    "rdv",
+    "hmu"
   ],
   "groups": {},
   "sections": {
