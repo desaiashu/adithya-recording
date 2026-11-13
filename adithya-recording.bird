@@ -149,7 +149,7 @@ sec chorus
 sec bridge
 sec instr
   trk 1 43 Neve 1 |jwo
-    c 118:333 0:0 |pfkr
+    c 118:333 9:116 |pfkr
       samples/recording_1794610630_0.wav
       lane 0
         c 118:264 9:351 |btjj
@@ -160,7 +160,7 @@ sec instr
         c 118:104 10:145 |onup
           samples/recording_1794610588_0.wav
       lane 2
-        c 118:333 0:0 |hxrm
+        c 118:333 9:116 |hxrm
           samples/recording_1794610630_0.wav
   trk 4 lower scream |bce
     c 118:0 10:251 |qsar
