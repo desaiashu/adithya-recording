@@ -13,7 +13,7 @@ A [Songbird](https://tivra.com) project.
 
 ## Tracks
 
-- 43 Neve 1
+- position of vocals
 - Hall
 - Plate
 - Delay
