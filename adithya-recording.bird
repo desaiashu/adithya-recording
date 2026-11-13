@@ -8,6 +8,7 @@ arr
   verse 8 |ipf
   chorus 16 |dsq
   verse 8 |ece
+  chorus 8 |cff
 
 tracks
   1 43 Neve 1 |jwo
@@ -103,3 +104,4 @@ sec chorus
         c 46:212 0:342 |oedr
           samples/recording_1794608349_0.wav
 sec verse
+sec chorus
