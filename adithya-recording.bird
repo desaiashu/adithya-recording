@@ -9,6 +9,7 @@ arr
   chorus 16 |dsq
   verse 8 |ece
   chorus 24 |cff
+  bridge 16 |had
 
 tracks
   1 43 Neve 1 |jwo
@@ -144,3 +145,4 @@ sec chorus
   trk 5 mids scream |hmu
     c 68:0 18:257 |zuyu
       samples/recording_1794608626_0.wav
+sec bridge

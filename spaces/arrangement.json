@@ -170,6 +170,15 @@
       "scale": null,
       "activeVariation": 0,
       "variationCount": 0
+    },
+    "had": {
+      "id": "had",
+      "name": "bridge",
+      "startBeat": 352.0,
+      "lengthBeats": 64.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
     }
   },
   "tempoMarkers": [],
