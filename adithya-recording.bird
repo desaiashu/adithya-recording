@@ -19,10 +19,10 @@ tracks
   2 high scream |xbg
     type audio
     strip tivraStrip
-  3 take 3 |qbb
+  3 Audio |btt
     type audio
     strip tivraStrip
-  4 Audio |btt
+  4 take 3 |qbb
     type audio
     strip tivraStrip
   5 lower scream |bce
@@ -94,7 +94,7 @@ sec verse
   trk 2 high scream |xbg
     c 38:0 17:181 |nvgn
       samples/recording_1794608507_0.wav
-  trk 3 take 3 |qbb
+  trk 4 take 3 |qbb
     c 38:0 17:246 |ddtx
       samples/recording_1794608359_0.wav
   trk 5 lower scream |bce
@@ -139,7 +139,7 @@ sec chorus
   trk 2 high scream |xbg
     c 65:0 20:32 |xplc
       samples/recording_1794608921_0.wav
-  trk 3 take 3 |qbb
+  trk 4 take 3 |qbb
     c 65:0 20:18 |hhni
       samples/recording_1794610381_0.wav
       o 0:314

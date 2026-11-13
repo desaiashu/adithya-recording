@@ -19,8 +19,8 @@ A [Songbird](https://tivra.com) project.
 - Delay
 - Color
 - high scream
-- take 3
 - Audio
+- take 3
 - lower scream
 - mids scream
 - choir_7th_Feb_25
