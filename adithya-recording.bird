@@ -25,6 +25,9 @@ tracks
   5 choir_7th_Feb_25 |sek
     type audio
     strip tivraStrip
+  6 Audio |xbg
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rxt

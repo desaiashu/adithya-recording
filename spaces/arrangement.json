@@ -100,6 +100,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "xbg": {
+      "id": "xbg",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -111,7 +121,8 @@
     "qbb",
     "bce",
     "hmu",
-    "sek"
+    "sek",
+    "xbg"
   ],
   "groups": {},
   "sections": {
