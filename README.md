@@ -18,8 +18,8 @@ A [Songbird](https://tivra.com) project.
 - Plate
 - Delay
 - Color
-- take 3
 - high scream
+- take 3
 - take 1
 - take 2
 - choir_7th_Feb_25
