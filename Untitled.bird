@@ -1,0 +1,35 @@
+sig
+  bpm 130
+  system 12tet western
+  scale C chromatic
+
+arr
+  main 32 |hog
+
+tracks
+  1 Audio |jwo
+    type audio
+    strip tivraStrip
+  2 MIDI |cwd
+    type midi
+    plugin tivraWavetable
+    strip tivraStrip
+
+returns
+  0 Hall |rxt
+    fx tivraHall
+    strip tivraStrip
+  1 Plate |rda
+    fx tivraPlate
+    strip tivraStrip
+  2 Delay |rvx
+    fx tivraDelay
+    strip tivraStrip
+  3 Color |rdv
+    fx tivraDistortion
+    strip tivraStrip
+
+master
+  strip tivraMastering
+
+sec main
