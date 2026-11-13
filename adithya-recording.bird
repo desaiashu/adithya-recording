@@ -10,11 +10,7 @@ tracks
   1 43 Neve 1 |jwo
     type audio
     strip tivraStrip
-  2 MIDI |cwd
-    type midi
-    plugin tivraWavetable
-    strip tivraStrip
-  3 Audio |hmu
+  2 Audio |hmu
     type audio
     strip tivraStrip
 

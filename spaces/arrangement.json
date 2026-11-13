@@ -21,16 +21,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "cwd": {
-      "id": "cwd",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "rxt": {
       "id": "rxt",
       "name": "Hall",
@@ -84,7 +74,6 @@
   },
   "trackOrder": [
     "jwo",
-    "cwd",
     "rxt",
     "rda",
     "rvx",

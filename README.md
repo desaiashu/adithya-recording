@@ -6,15 +6,14 @@ A [Songbird](https://tivra.com) project.
 |---|---|
 | Tempo | 130 BPM |
 | Meter | 4/4 |
-| Tracks | 7 |
+| Tracks | 6 |
 | Clips | 6 |
-| Plugins | 13 |
+| Plugins | 11 |
 | Automation lanes | 0 |
 
 ## Tracks
 
 - 43 Neve 1
-- MIDI
 - Hall
 - Plate
 - Delay
