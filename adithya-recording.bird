@@ -65,13 +65,13 @@ sec main
       samples/choir_7th_Feb_25.wav
 sec verse
   trk 1 43 Neve 1 |jwo
-    c 37:77 0:0 |djpa
+    c 37:77 18:356 |djpa
       samples/recording_1794608258_0.wav
       lane 2
         c 37:77 19:8 |ofux
           samples/recording_1794608170_0.wav
       lane 3
-        c 37:77 0:0 |hmyp
+        c 37:77 18:356 |hmyp
           samples/recording_1794608258_0.wav
   trk 2 take 1 |bce
     c 32:0 25:51 |puve
