@@ -1211,9 +1211,9 @@
     "id": "pfkr",
     "trackId": "jwo",
     "name": "Take 3",
-    "startBeat": 475.466666,
-    "lengthBeats": 37.208888888888886,
-    "offsetBeats": 0.0,
+    "startBeat": 480.0,
+    "lengthBeats": 32.67555488888886,
+    "offsetBeats": 4.533334000000025,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610630_0.wav",

@@ -21,6 +21,10 @@
     "arfh": {
       "gain": 1.0,
       "muted": false
+    },
+    "pfkr": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
