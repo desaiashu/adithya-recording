@@ -20,7 +20,7 @@ tracks
   3 take 3 |qbb
     type audio
     strip tivraStrip
-  4 take 1 |bce
+  4 lower scream |bce
     type audio
     strip tivraStrip
   5 mids scream |hmu
@@ -92,7 +92,7 @@ sec verse
   trk 3 take 3 |qbb
     c 38:0 17:246 |ddtx
       samples/recording_1794608359_0.wav
-  trk 4 take 1 |bce
+  trk 4 lower scream |bce
     c 32:0 25:51 |puve
       samples/recording_1794608087_0.wav
   trk 5 mids scream |hmu
@@ -117,7 +117,7 @@ sec chorus
           samples/recording_1794608767_0.wav
         c 65:184 20:43 |bhpm
           samples/recording_1794608767_0.wav
-  trk 4 take 1 |bce
+  trk 4 lower scream |bce
     c 65:0 20:43 |pnxn
       samples/recording_1794608767_0.wav
   trk 5 mids scream |hmu
