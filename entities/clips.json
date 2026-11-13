@@ -1335,9 +1335,9 @@
     "id": "fbaj",
     "trackId": "jwo",
     "name": "Take 4",
-    "startBeat": 476.483555,
-    "lengthBeats": 35.475555555555566,
-    "offsetBeats": 0.0,
+    "startBeat": 480.0,
+    "lengthBeats": 31.95911055555559,
+    "offsetBeats": 3.516444999999976,
     "source": {
       "type": "Audio",
       "path": "samples/recording_1794610722_0.wav",

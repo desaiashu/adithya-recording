@@ -25,6 +25,10 @@
     "pfkr": {
       "gain": 1.0,
       "muted": false
+    },
+    "fbaj": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
