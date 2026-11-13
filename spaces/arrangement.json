@@ -101,6 +101,15 @@
       "scale": null,
       "activeVariation": 1,
       "variationCount": 2
+    },
+    "ipf": {
+      "id": "ipf",
+      "name": "verse",
+      "startBeat": 128.0,
+      "lengthBeats": 32.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
     }
   },
   "tempoMarkers": [],
