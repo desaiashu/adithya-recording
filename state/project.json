@@ -1,7 +1,7 @@
 {
   "metadata": {
     "id": "sninzy",
-    "name": "Untitled",
+    "name": "adithya-recording",
     "createdAt": "",
     "modifiedAt": ""
   },
@@ -14,5 +14,10 @@
   "trackAppearance": {},
   "embeddedTemplates": {},
   "videoFilePath": null,
-  "spaces": []
+  "spaces": [
+    {
+      "id": "space-bsuget",
+      "view": "arrange"
+    }
+  ]
 }

@@ -15,45 +15,20 @@ arr
 tracks
   1 position of vocals |jwo
     type audio
-    strip tivraStrip
   2 high scream |xbg
     type audio
-    strip tivraStrip
   3 2nd high |btt
     type audio
-    strip tivraStrip
   4 take 3 |qbb
     type audio
-    strip tivraStrip
   5 lower scream |bce
     type audio
-    strip tivraStrip
   6 Audio |wid
     type audio
-    strip tivraStrip
   7 mids scream |hmu
     type audio
-    strip tivraStrip
   8 choir_7th_Feb_25 |sek
     type audio
-    strip tivraStrip
-
-returns
-  0 Hall |rxt
-    fx tivraHall
-    strip tivraStrip
-  1 Plate |rda
-    fx tivraPlate
-    strip tivraStrip
-  2 Delay |rvx
-    fx tivraDelay
-    strip tivraStrip
-  3 Color |rdv
-    fx tivraDistortion
-    strip tivraStrip
-
-master
-  strip tivraMastering
 
 sec main
   trk 1 position of vocals |jwo
