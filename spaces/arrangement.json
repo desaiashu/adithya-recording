@@ -224,10 +224,10 @@
     }
   ],
   "spatialMode": false,
-  "rendererOutputMode": "binaural",
   "speakerMaps": {},
   "speakerLevels": {},
   "speakerMutes": {},
   "outputBusGains": {},
-  "outputBusMutes": {}
+  "outputBusMutes": {},
+  "rendererOutputMode": "binaural"
 }
