@@ -381,6 +381,7 @@
     "rxt": {
       "id": "rxt",
       "name": "Hall",
+      "letter": "A",
       "busIndex": 0,
       "gain": 1.0,
       "pan": 0.0,
@@ -389,6 +390,7 @@
     "rda": {
       "id": "rda",
       "name": "Plate",
+      "letter": "B",
       "busIndex": 1,
       "gain": 1.0,
       "pan": 0.0,
@@ -397,6 +399,7 @@
     "rvx": {
       "id": "rvx",
       "name": "Delay",
+      "letter": "C",
       "busIndex": 2,
       "gain": 1.0,
       "pan": 0.0,
@@ -405,6 +408,7 @@
     "rdv": {
       "id": "rdv",
       "name": "Color",
+      "letter": "D",
       "busIndex": 3,
       "gain": 1.0,
       "pan": 0.0,
